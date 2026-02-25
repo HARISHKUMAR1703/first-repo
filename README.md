@@ -1,7 +1,9 @@
 # first-repo
 this is my first work in github
-tbis code runs Smart Electricity Billing System
+tbis code runs Smart Electricity Billing System.
+
 the rules of the billing system are as follows:
+
 1.Fixed Minimum Charge: Every customer is charged a base fee of $10 regardless of usage.
 
 2.Tiered Pricing:
