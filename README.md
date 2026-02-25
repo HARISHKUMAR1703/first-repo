@@ -1,6 +1,7 @@
 # first-repo
-this is my first work in github
-tbis code runs Smart Electricity Billing System.
+this is my first work in github.
+
+this code runs Smart Electricity Billing System.
 
 the rules of the billing system are as follows:
 
