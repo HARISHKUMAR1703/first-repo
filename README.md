@@ -1,23 +1,42 @@
-# first-repo
-this is my first work in github.
+# First Repository
 
-#Smart electricity billing system
-this code runs Smart Electricity Billing System.
+Welcome to my first GitHub repository! This repository contains my beginner Java projects created while learning core programming concepts. Each project is built to improve my understanding of Java and data structures.
 
-the rules of the billing system are as follows:
+## Projects
 
-1.Fixed Minimum Charge: Every customer is charged a base fee of $10 regardless of usage.
+### 1. Smart Electricity Billing System
 
-2.Tiered Pricing:
+This project calculates the electricity bill based on power consumption using the following billing rules:
 
-  o First 100 units: $0.50 per unit.
-  
-  o Next 200 units (101–300): $0.75 per unit.
-  
-  o Above 300 units: $1.20 per unit.
-  
-  
-3.Late Fee: If the bill is paid after the due date, a 5% surcharge is added to the total bill amount.
+* **Fixed Minimum Charge:** Every customer is charged a base fee of **$10**.
+* **Tiered Pricing:**
 
-#implementation of stack using array
+  * First **100 units:** **$0.50** per unit
+  * Next **200 units (101–300):** **$0.75** per unit
+  * Above **300 units:** **$1.20** per unit
+* **Late Fee:** A **5% surcharge** is added if the bill is paid after the due date.
 
+### 2. Stack Implementation Using Array
+
+This project demonstrates the implementation of a **Stack** using an **Array** in Java.
+
+**Features:**
+
+* Push
+* Pop
+* Peek
+* isfull
+* Display stack elements
+* Stack Overflow and Underflow handling
+
+## Technologies Used
+
+* Java
+
+## Purpose
+
+This repository is a collection of my beginner Java programs and will continue to grow as I learn new concepts and build more projects.
+
+---
+
+⭐ Thank you for visiting my repository!
