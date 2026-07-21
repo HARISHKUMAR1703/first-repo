@@ -18,5 +18,6 @@ the rules of the billing system are as follows:
   
   
 3.Late Fee: If the bill is paid after the due date, a 5% surcharge is added to the total bill amount.
+
 #implementation of stack using array
 
